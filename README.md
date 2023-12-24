@@ -8,6 +8,7 @@ Web Developer
 * 🖥️  See my portfolio at [Pan Porfolio](http://nimble-stardust-cabb64.netlify.app/)
 * ✉️  You can contact me at [tu416164@gmail.com](mailto:tu416164@gmail.com)
 * 🧠  I'm learning Nextjs, Nestjs and React Native
+* ⚡  Let's play some sports together
 
 ### Skills
 
