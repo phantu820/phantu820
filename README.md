@@ -5,4 +5,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantu820&show_icons=true&locale=en&theme=holi" alt="phantu820" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantu820&theme=react&" alt="phantu820" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantu820&theme=github_&" alt="phantu820" /></p>
