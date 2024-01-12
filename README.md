@@ -6,5 +6,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantu820&show_icons=true&locale=en&theme=ambient_gradient" alt="phantu820" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantu820&theme=ambient_gradient&" alt="phantu820" /></p>
-
-<a href="http://www.github.com/phantu820"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phantu820&stroke=ffffff&background=134e4a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
